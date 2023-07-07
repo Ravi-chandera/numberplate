@@ -1,3 +1,5 @@
+numpy
+pandas
 torch
 ultralytics==8.0.114
 opencv-python-headless
@@ -6,4 +8,5 @@ easyocr==1.7.0
 filterpy==1.4.5
 scikit-image==0.17.2
 lap==0.4.0
+
 
